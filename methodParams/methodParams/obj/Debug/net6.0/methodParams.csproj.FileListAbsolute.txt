@@ -1,0 +1,15 @@
+C:\Users\aldup\source\repos\methodParams\methodParams\bin\Debug\net6.0\methodParams.exe
+C:\Users\aldup\source\repos\methodParams\methodParams\bin\Debug\net6.0\methodParams.deps.json
+C:\Users\aldup\source\repos\methodParams\methodParams\bin\Debug\net6.0\methodParams.runtimeconfig.json
+C:\Users\aldup\source\repos\methodParams\methodParams\bin\Debug\net6.0\methodParams.dll
+C:\Users\aldup\source\repos\methodParams\methodParams\bin\Debug\net6.0\methodParams.pdb
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\methodParams.csproj.AssemblyReference.cache
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\methodParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\methodParams.AssemblyInfoInputs.cache
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\methodParams.AssemblyInfo.cs
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\methodParams.csproj.CoreCompileInputs.cache
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\methodParams.dll
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\refint\methodParams.dll
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\methodParams.pdb
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\methodParams.genruntimeconfig.cache
+C:\Users\aldup\source\repos\methodParams\methodParams\obj\Debug\net6.0\ref\methodParams.dll

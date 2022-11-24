@@ -1,0 +1,15 @@
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\bin\Debug\net6.0\cycleWhile.exe
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\bin\Debug\net6.0\cycleWhile.deps.json
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\bin\Debug\net6.0\cycleWhile.runtimeconfig.json
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\bin\Debug\net6.0\cycleWhile.dll
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\bin\Debug\net6.0\cycleWhile.pdb
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\cycleWhile.csproj.AssemblyReference.cache
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\cycleWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\cycleWhile.AssemblyInfoInputs.cache
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\cycleWhile.AssemblyInfo.cs
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\cycleWhile.csproj.CoreCompileInputs.cache
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\cycleWhile.dll
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\refint\cycleWhile.dll
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\cycleWhile.pdb
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\cycleWhile.genruntimeconfig.cache
+C:\Users\aldup\source\repos\cycleWhile\cycleWhile\obj\Debug\net6.0\ref\cycleWhile.dll

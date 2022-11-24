@@ -1,0 +1,1 @@
+﻿INSERT INTO Students (Name, Surname, Birthday) VALUES ('Kirill', 'Drobin', '09/29/2004')

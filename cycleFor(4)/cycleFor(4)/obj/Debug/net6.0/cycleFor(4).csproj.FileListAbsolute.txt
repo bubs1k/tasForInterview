@@ -1,0 +1,15 @@
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\bin\Debug\net6.0\cycleFor(4).exe
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\bin\Debug\net6.0\cycleFor(4).deps.json
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\bin\Debug\net6.0\cycleFor(4).runtimeconfig.json
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\bin\Debug\net6.0\cycleFor(4).dll
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\bin\Debug\net6.0\cycleFor(4).pdb
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\cycleFor(4).csproj.AssemblyReference.cache
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\cycleFor(4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\cycleFor(4).AssemblyInfoInputs.cache
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\cycleFor(4).AssemblyInfo.cs
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\cycleFor(4).csproj.CoreCompileInputs.cache
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\cycleFor(4).dll
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\refint\cycleFor(4).dll
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\cycleFor(4).pdb
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\cycleFor(4).genruntimeconfig.cache
+C:\Users\aldup\source\repos\cycleFor(4)\cycleFor(4)\obj\Debug\net6.0\ref\cycleFor(4).dll

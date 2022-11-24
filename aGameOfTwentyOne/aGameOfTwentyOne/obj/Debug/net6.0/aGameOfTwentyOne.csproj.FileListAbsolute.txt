@@ -1,0 +1,15 @@
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\bin\Debug\net6.0\aGameOfTwentyOne.exe
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\bin\Debug\net6.0\aGameOfTwentyOne.deps.json
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\bin\Debug\net6.0\aGameOfTwentyOne.runtimeconfig.json
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\bin\Debug\net6.0\aGameOfTwentyOne.dll
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\bin\Debug\net6.0\aGameOfTwentyOne.pdb
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\aGameOfTwentyOne.csproj.AssemblyReference.cache
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\aGameOfTwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\aGameOfTwentyOne.AssemblyInfoInputs.cache
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\aGameOfTwentyOne.AssemblyInfo.cs
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\aGameOfTwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\aGameOfTwentyOne.dll
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\refint\aGameOfTwentyOne.dll
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\aGameOfTwentyOne.pdb
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\aGameOfTwentyOne.genruntimeconfig.cache
+C:\Users\aldup\source\repos\aGameOfTwentyOne\aGameOfTwentyOne\obj\Debug\net6.0\ref\aGameOfTwentyOne.dll

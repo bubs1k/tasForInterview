@@ -1,0 +1,15 @@
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\bin\Debug\net6.0\arrayForIf.exe
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\bin\Debug\net6.0\arrayForIf.deps.json
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\bin\Debug\net6.0\arrayForIf.runtimeconfig.json
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\bin\Debug\net6.0\arrayForIf.dll
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\bin\Debug\net6.0\arrayForIf.pdb
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\arrayForIf.csproj.AssemblyReference.cache
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\arrayForIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\arrayForIf.AssemblyInfoInputs.cache
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\arrayForIf.AssemblyInfo.cs
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\arrayForIf.csproj.CoreCompileInputs.cache
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\arrayForIf.dll
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\refint\arrayForIf.dll
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\arrayForIf.pdb
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\arrayForIf.genruntimeconfig.cache
+C:\Users\aldup\source\repos\arrayForIf\arrayForIf\obj\Debug\net6.0\ref\arrayForIf.dll
