@@ -9,7 +9,7 @@ int enteredValue = int.Parse(Console.ReadLine());
 
 for (int i = 0; i < enteredValue; i++)
 {
-    Console.WriteLine(enteredMessage + " " + i);
+    Console.WriteLine(enteredMessage + " " + i);//i добавлена для удобства. что бы при выполнении программы было видно сколько раз вывелось сообщение
 }
 
 //Результат работы программы:
