@@ -1,4 +1,4 @@
-﻿//Написать метод - калькулятор
+﻿//Написать метод - калькулятор(сложение)
 
 void Calculat(int firstValue, int secondValue)
 {
